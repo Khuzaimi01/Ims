@@ -1,0 +1,407 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"per",
+				"perabot-delete"
+			],
+			[
+				"loc_",
+				"loc_code"
+			],
+			[
+				"loc",
+				"loc_asset"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"d",
+				"description"
+			],
+			[
+				"pro",
+				"product_name"
+			],
+			[
+				"t",
+				"tr"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"flex",
+				"flex-basis"
+			],
+			[
+				"fle",
+				"flex"
+			],
+			[
+				"f",
+				"flex-direction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dashboard.php",
+			"settings":
+			{
+				"buffer_size": 1154,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 107.199996948,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/Ims",
+		"/C/xampp/htdocs/Ims/css",
+		"/C/xampp/htdocs/Ims/database",
+		"/C/xampp/htdocs/Ims/partials"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/Ims/pilih-alatan.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/Ims/mesin-delete-wil.php",
+		"/C/xampp/htdocs/Ims/mesin-edit-wil.php",
+		"/C/xampp/htdocs/Ims/mesin-list-wil.php",
+		"/C/xampp/htdocs/Ims/mesin-process-wil.php",
+		"/C/xampp/htdocs/Ims/mesin-add-wil.php",
+		"/C/xampp/htdocs/Ims/barang-add-tel.php",
+		"/C/xampp/htdocs/Ims/export-excel-tel.php",
+		"/C/xampp/htdocs/Ims/barang-process-tel.php",
+		"/C/xampp/htdocs/Ims/barang-list-tel.php",
+		"/C/xampp/htdocs/Ims/barang-edit-tel.php",
+		"/C/xampp/htdocs/Ims/barang-delete-tel.php",
+		"/C/xampp/htdocs/Ims/komputer-add-wil.php",
+		"/C/xampp/htdocs/Ims/komputer-process-wil.php",
+		"/C/xampp/htdocs/Ims/komputer-list-wil.php",
+		"/C/xampp/htdocs/Ims/komputer-edit-wil.php",
+		"/C/xampp/htdocs/Ims/komputer-delete-wil.php",
+		"/C/xampp/htdocs/Ims/barang-add-wil.php",
+		"/C/xampp/htdocs/Ims/export-excel-wil.php",
+		"/C/xampp/htdocs/Ims/barang-process-wil.php",
+		"/C/xampp/htdocs/Ims/barang-list-wil.php",
+		"/C/xampp/htdocs/Ims/barang-edit-wil.php",
+		"/C/xampp/htdocs/Ims/barang-delete-wil.php",
+		"/C/xampp/htdocs/Ims/barang-add.php",
+		"/C/xampp/htdocs/Ims/barang-delete.php",
+		"/C/xampp/htdocs/Ims/barang-edit.php",
+		"/C/xampp/htdocs/Ims/barang-process.php",
+		"/C/xampp/htdocs/Ims/barang-list.php",
+		"/C/xampp/htdocs/Ims/export-excel.php",
+		"/C/Users/USER/Downloads/inventory.sql",
+		"/C/xampp/htdocs/Ims/perabot-add-tel.php",
+		"/C/xampp/htdocs/Ims/perabot-process-tel.php",
+		"/C/xampp/htdocs/Ims/perabot-list-tel.php",
+		"/C/xampp/htdocs/Ims/perabot-edit-tel.php",
+		"/C/xampp/htdocs/Ims/perabot-delete-tel.php",
+		"/C/xampp/htdocs/Ims/mesin-add-tel.php",
+		"/C/xampp/htdocs/Ims/mesin-process-tel.php",
+		"/C/xampp/htdocs/Ims/mesin-list-tel.php",
+		"/C/xampp/htdocs/Ims/mesin-edit-tel.php",
+		"/C/xampp/htdocs/Ims/mesin-delete-tel.php",
+		"/C/xampp/htdocs/Ims/komputer-add-tel.php",
+		"/C/xampp/htdocs/Ims/komputer-process-tel.php",
+		"/C/xampp/htdocs/Ims/komputer-list-tel.php",
+		"/C/xampp/htdocs/Ims/komputer-edit-tel.php",
+		"/C/xampp/htdocs/Ims/komputer-delete-tel.php",
+		"/C/xampp/htdocs/Ims/barang-add-sl.php",
+		"/C/xampp/htdocs/Ims/export-excel-sl.php",
+		"/C/xampp/htdocs/Ims/barang-process-sl.php",
+		"/C/xampp/htdocs/Ims/barang-list-sl.php",
+		"/C/xampp/htdocs/Ims/barang-edit-sl.php",
+		"/C/xampp/htdocs/Ims/barang-delete-sl.php",
+		"/C/xampp/htdocs/Ims/perabot-add-sl.php",
+		"/C/xampp/htdocs/Ims/perabot-process-sl.php",
+		"/C/xampp/htdocs/Ims/perabot-list-sl.php",
+		"/C/xampp/htdocs/Ims/perabot-edit-sl.php",
+		"/C/xampp/htdocs/Ims/perabot-delete-sl.php",
+		"/C/xampp/htdocs/Ims/mesin-process-sl.php",
+		"/C/xampp/htdocs/Ims/mesin-add-sl.php",
+		"/C/xampp/htdocs/Ims/mesin-list-sl.php",
+		"/C/xampp/htdocs/Ims/mesin-edit-sl.php",
+		"/C/xampp/htdocs/Ims/mesin-delete-sl.php",
+		"/C/xampp/htdocs/Ims/komputer-add-sl.php",
+		"/C/xampp/htdocs/Ims/komputer-process-sl.php",
+		"/C/xampp/htdocs/Ims/komputer-list-sl.php",
+		"/C/xampp/htdocs/Ims/komputer-edit-sl.php",
+		"/C/xampp/htdocs/Ims/komputer-delete-sl.php",
+		"/C/xampp/htdocs/Ims/barang-add-ru.php",
+		"/C/xampp/htdocs/Ims/export-excel-ru.php",
+		"/C/xampp/htdocs/Ims/barang-list-ru.php",
+		"/C/xampp/htdocs/Ims/barang-edit-ru.php",
+		"/C/xampp/htdocs/Ims/barang-delete-ru.php",
+		"/C/xampp/htdocs/Ims/barang-process-ru.php",
+		"/C/xampp/htdocs/Ims/perabot-add-ru.php",
+		"/C/xampp/htdocs/Ims/mesin-add-ru.php",
+		"/C/xampp/htdocs/Ims/komputer-add-ru.php",
+		"/C/xampp/htdocs/Ims/perabot-process-ru.php",
+		"/C/xampp/htdocs/Ims/perabot-list-ru.php",
+		"/C/xampp/htdocs/Ims/perabot-edit-ru.php",
+		"/C/xampp/htdocs/Ims/perabot-delete-ru.php",
+		"/C/xampp/htdocs/Ims/mesin-delete-ru.php",
+		"/C/xampp/htdocs/Ims/mesin-edit-ru.php",
+		"/C/xampp/htdocs/Ims/mesin-list-ru.php",
+		"/C/xampp/htdocs/Ims/mesin-process-ru.php",
+		"/C/xampp/htdocs/Ims/komputer-process-ru.php",
+		"/C/xampp/htdocs/Ims/komputer-list-ru.php",
+		"/C/xampp/htdocs/Ims/komputer-edit-ru.php",
+		"/C/xampp/htdocs/Ims/komputer-delete-ru.php",
+		"/C/xampp/htdocs/Ims/komputer-add-ptm.php",
+		"/C/xampp/htdocs/Ims/export-excel-ptm.php",
+		"/C/xampp/htdocs/Ims/komputer-process-ptm.php",
+		"/C/xampp/htdocs/Ims/komputer-list-ptm.php",
+		"/C/xampp/htdocs/Ims/komputer-edit-ptm.php",
+		"/C/xampp/htdocs/Ims/komputer-delete-ptm.php",
+		"/C/xampp/htdocs/Ims/perabot-add-ptm.php",
+		"/C/xampp/htdocs/Ims/perabot-process-ptm.php",
+		"/C/xampp/htdocs/Ims/perabot-list-ptm.php",
+		"/C/xampp/htdocs/Ims/perabot-edit-ptm.php",
+		"/C/xampp/htdocs/Ims/perabot-delete-ptm.php",
+		"/C/xampp/htdocs/Ims/mesin-add-ptm.php",
+		"/C/xampp/htdocs/Ims/mesin-process-ptm.php",
+		"/C/xampp/htdocs/Ims/mesin-list-ptm.php",
+		"/C/xampp/htdocs/Ims/mesin-edit-ptm.php",
+		"/C/xampp/htdocs/Ims/mesin-delete-ptm.php",
+		"/C/xampp/htdocs/Ims/barang-add-ptm.php",
+		"/C/xampp/htdocs/Ims/barang-process-ptm.php",
+		"/C/xampp/htdocs/Ims/barang-list-ptm.php",
+		"/C/xampp/htdocs/Ims/barang-edit-ptm.php",
+		"/C/xampp/htdocs/Ims/barang-delete-ptm.php",
+		"/C/xampp/htdocs/Ims/komputer-add-per.php",
+		"/C/xampp/htdocs/Ims/export-excel-per.php",
+		"/C/xampp/htdocs/Ims/komputer-process-per.php",
+		"/C/xampp/htdocs/Ims/komputer-list-per.php",
+		"/C/xampp/htdocs/Ims/komputer-edit-per.php",
+		"/C/xampp/htdocs/Ims/komputer-delete-per.php",
+		"/C/xampp/htdocs/Ims/perabot-add-per.php",
+		"/C/xampp/htdocs/Ims/perabot-delete-per.php",
+		"/C/xampp/htdocs/Ims/perabot-edit-per.php",
+		"/C/xampp/htdocs/Ims/perabot-process-per.php",
+		"/C/xampp/htdocs/Ims/perabot-list-per.php",
+		"/C/xampp/htdocs/Ims/mesin-add-per.php",
+		"/C/xampp/htdocs/Ims/mesin-process-per.php",
+		"/C/xampp/htdocs/Ims/mesin-list-per.php",
+		"/C/xampp/htdocs/Ims/mesin-edit-per.php",
+		"/C/xampp/htdocs/Ims/mesin-delete-per.php",
+		"/C/xampp/htdocs/Ims/barang-add-per.php",
+		"/C/xampp/htdocs/Ims/barang-process-per.php",
+		"/C/xampp/htdocs/Ims/barang-list-per.php"
+	],
+	"find":
+	{
+		"height": 39.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"login.php",
+			"localhost",
+			"san"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dashboard.php",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.4
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "barang-add-bf.sublime-project",
+	"replace":
+	{
+		"height": 41.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
